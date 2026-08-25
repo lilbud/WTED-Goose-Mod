@@ -1,0 +1,18 @@
+[
+  {
+    "iconId": "f9995af5-a39a-4469-aae7-f2e036550ea7",
+    "iconPath": "\\white.png",
+    "archivePath": "\\white.archive",
+    "originalArchivePath": "\\white.archive",
+    "sha256HashOfArchiveFile": "d3f24ddd89f836667a6903f9d2f784402ba6784424af3a772cb5a83be8e54b27",
+    "atlasName": "white",
+    "iconName": "white",
+    "isActive": true,
+    "customIcon": {
+      "inkAtlasPath": "\\white.inkatlas",
+      "inkAtlasPart": "icon_part"
+    },
+    "fromArchive": false,
+    "IconImage": "System.Drawing.Bitmap"
+  }
+]

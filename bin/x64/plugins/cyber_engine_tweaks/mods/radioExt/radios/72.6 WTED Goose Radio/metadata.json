@@ -1,0 +1,23 @@
+{
+  "displayName": "72.6 WTED Goose Radio",
+  "fm": 72.6,
+  "volume": 1.0,
+  "icon": "UIIcon.alcohol_absynth",
+  "customIcon": {
+    "inkAtlasPath": "base\\icon\\white.inkatlas",
+    "inkAtlasPart": "icon_part",
+    "useCustom": true
+  },
+  "streamInfo": {
+    "streamURL": "https://s4.radio.co/s3c11c85d6/listen",
+    "isStream": true
+  },
+  "order": [],
+  "enabled": true,
+  "custom_data": {
+    "Icon Name": "white",
+    "Image Path": "D:\\Games\\Steam\\steamapps\\common\\Cyberpunk 2077\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\radioExt\\radios\\72.6 WTED Goose Radio\\white.png",
+    "Archive Path": "D:\\Games\\Steam\\steamapps\\common\\Cyberpunk 2077\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\radioExt\\radios\\72.6 WTED Goose Radio\\white.archive",
+    "SHA256 Archive Hash": "d3f24ddd89f836667a6903f9d2f784402ba6784424af3a772cb5a83be8e54b27"
+  }
+}
